@@ -26,13 +26,11 @@
 
 
 <!--Intro start-->
-- 🏠 Getting my Ph.D at the UDP, in Chile (https://astronomia.udp.cl/).
+- 🏠 Getting my Ph.D at the UDP, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
 
 - 🔭 I’m currently working on **High redshift quasars, HotDOGs, and [CII] haloes.**
 
-- 📡 I’m currently learning **Love writing code for data reduction and instrumentation including Magellian, ALMA, and Blanco.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📡 Writing code for **data reduction and instrumentation including Magellian, ALMA, and Blanco.**
 
 - 📝 Publications: (https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Lambert%2C%20Trystan.%20S.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
