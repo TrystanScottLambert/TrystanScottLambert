@@ -34,7 +34,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 Published: (https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Lambert%2C%20Trystan.%20S.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- 📝 Publications: (https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Lambert%2C%20Trystan.%20S.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 - 💬 Ask me about **Data reduction, Instrumentation, VR, galaxy clusters, highredshift galaxies**
 
@@ -50,10 +50,11 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TrystanScottLambert=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TrystanScottLambert&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TrystanScottLambert&theme=dark&hide_border=false" /> 
 </td>
+
 
 <td width="50%" align="center">
 
@@ -103,7 +104,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/trystan-lambert-2b85891a3/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/trystanslambert/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/lamberttrystan/?hl=en/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="instagram" height="50" width="50" /></a>
+ <a href="https://www.instagram.com/lamberttrystan/?hl=en/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
 
