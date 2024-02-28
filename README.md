@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🏠 Getting my Ph.D at the UDP, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
+- 🏠 Ph.D from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
 
 - 🔭 I’m currently working on **High redshift quasars, HotDOGs, and [CII] haloes.**
 
@@ -41,10 +41,6 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TrystanScottLambert&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TrystanScottLambert&theme=dark&hide_border=false" /> 
-</td>
 
 
 <td width="50%" align="center">
