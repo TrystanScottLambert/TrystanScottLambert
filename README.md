@@ -19,15 +19,17 @@
 
 
 <!--Intro start-->
-- 🏠 Ph.D from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
+- 🏠 Postdoc at the International Center for Radio Astronomy Research (ICRAR) at the University of Western Australia (UWA).
 
-- 🔭 I’m currently working on **High redshift quasars, HotDOGs, and [CII] haloes.**
+- 📖 Ph.D. from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
 
-- 📡 Writing code for **data reduction and instrumentation including Magellian, ALMA, and Blanco.**
+- 🔭 I’m currently working on **Identiying large-scale structures in redshift-surveys.** In particular GAMA/WAVES
+
+- 📡 Written code for **data reduction and instrumentation including Magellian, ALMA, and Blanco.**  
 
 - 📝 Publications: (https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Lambert%2C%20Trystan.%20S.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-- 💬 Ask me about **Data reduction, Instrumentation, VR, galaxy clusters, high-redshift galaxies**
+- 💬 Ask me about **Data reduction, Instrumentation, VR, galaxy groups and clusters, high-redshift galaxies**
 
 - 📫 Feel free to reach me out **TrystanScottLambert@gmail.com**
 <!--Intro end-->
