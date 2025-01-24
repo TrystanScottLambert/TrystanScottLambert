@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🏠 Postdoc at the International Center for Radio Astronomy Research (ICRAR) at the University of Western Australia (UWA).
+- 🏠 Postdoc at the International Center for Radio Astronomy Research (ICRAR) at the University of Western Australia (UWA) (https://research-repository.uwa.edu.au/en/persons/trystan-lambert).
 
 - 📖 Ph.D. from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
 
