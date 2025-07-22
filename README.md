@@ -21,7 +21,7 @@
 <!--Intro start-->
 - 🏠 Postdoc at the International Center for Radio Astronomy Research (ICRAR) at the University of Western Australia (UWA) (https://research-repository.uwa.edu.au/en/persons/trystan-lambert).
 
-- 📖 Ph.D. from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/personas/tristam-lambert/).
+- 📖 Ph.D. from Universidad Diego Portales, in Chile (https://astronomia.udp.cl/en/researcher/trystan-lambert/).
 
 - 🔭 I’m currently working on **Identiying large-scale structures in redshift-surveys.** In particular GAMA/WAVES
 
